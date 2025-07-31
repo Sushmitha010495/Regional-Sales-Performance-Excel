@@ -16,4 +16,5 @@ for marketing and inventory management
 - Top 5 most profitable months based on net profit.
 
 ## Sales Performance Analysis Dashboard
+<img width="1101" height="575" alt="Sales  Dashboard1 " src="https://github.com/user-attachments/assets/98ddcafb-d3a1-444e-99f5-27a0d7d44266" />
 
